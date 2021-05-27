@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", "Apple SD Gothic Neo", "맑은 고딕", sans-serif;
   color: #444444;
 }
 
@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", "Apple SD Gothic Neo", "맑은 고딕", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -739,6 +739,16 @@ section {
   margin-left: 70px;
   line-height: 24px;
   font-size: 14px;
+}
+
+.services .icon-box > ul {
+  margin-left: 60px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+.services .icon-box > ul > li > ul {
+  padding-left: 1.5em;
 }
 
 /*--------------------------------------------------------------
