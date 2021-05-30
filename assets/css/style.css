@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", "Apple SD Gothic Neo", "맑은 고딕", sans-serif;
   color: #444444;
+  word-break: keep-all;
 }
 
 a {
