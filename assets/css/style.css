@@ -479,6 +479,11 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #01b1d7;
 }
 
+.ie .carousel-control-prev,
+.ie .carousel-control-next {
+  display: none;
+}
+
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
